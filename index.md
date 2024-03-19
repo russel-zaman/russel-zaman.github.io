@@ -22,9 +22,9 @@ Here are some of my noteworthy repositories:
 - [**investment-calculator-react**](https://github.com/amihsan/investment-calculator-react): Calculate your investments using React.
 - [**Study**](https://github.com/amihsan/Study): For Personal Learning
 
-🚀 **Explore more on [GitHub](https://github.com/amihsan?tab=repositories)** 🚀
+🚀 **Explore more on [GitHub](https://github.com/russel-zaman?tab=repositories)** 🚀
 
-👉 **[View my GitHub Profile](https://github.com/amihsan)** 👈
+👉 **[View my GitHub Profile](https://github.com/russel-zaman)** 👈
 
 Feel free to explore, contribute, and star the repositories you find interesting! 🌟
 
