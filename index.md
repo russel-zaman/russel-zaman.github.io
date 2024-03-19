@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amimul Ihsan
+title: Md Kazi Ebduzzaman
 ---
 
 # 👋 Welcome to My GitHub Repositories!
